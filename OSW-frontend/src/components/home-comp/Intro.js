@@ -25,8 +25,7 @@ const Intro = () => {
         </b>
         <p className="AppName">Open Source Weekend</p>
         <p className="intro">
-        Welcome to the Open Source Weekend (OSW)! OSW is a community-driven initiative aimed at promoting and celebrating open-source technologies on a regular basis. Our goal is to create a platform for knowledge sharing, collaboration, and exploration of various open-source projects.
-        </p>
+        Welcome to Open Source Weekend (OSW)! OSW is a community-led endeavor focused on regularly advocating and celebrating open-source technologies. Our objective is to establish a space for exchanging knowledge, fostering cooperation and delving into diverse open-source projects.</p>
         {/* <div className="box-container">
           <div className="rounded-grey-div-lg">
             <a
